@@ -1,12 +1,16 @@
 @import "~slick-carousel/slick/slick.css";
 @import "~slick-carousel/slick/slick-theme.css";
 
+
+
+
 .App {
   width: 100%;
   margin: 10rem auto;
   height: 550px;
   background-color: #03917e;
-  align-self: center;
+  
+  
 }
 
 
@@ -14,7 +18,8 @@
 .slide img {
   width: 29rem;
   margin: 0 auto;
-  align-self: center;
+  
+
 }
 
 .slide {
